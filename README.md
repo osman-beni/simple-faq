@@ -67,4 +67,4 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 ## Author
 
-- GitHub [@your-username](https://github.com/osman-beni)
+- GitHub [@osman-beni](https://github.com/osman-beni)
