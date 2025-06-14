@@ -1,98 +1,71 @@
-# DevChallenges.io - Simple FAQ Page
+<!-- Please update value in the {}  -->
 
-![Thumbnail for the Simple FAQ Page coding challenge](./thumbnail.jpg)
+<h1 align="center">Simple FAQ | devChallenges</h1>
 
-## Welcome! 👋
+<div align="center">
+   Solution for a challenge <a href="https://devchallenges.io/challenge/simple-faq-challenge" target="_blank">Simple FAQ</a> from <a href="http://devchallenges.io" target="_blank">devChallenges.io</a>.
+</div>
 
-Welcome to this responsive web coding challenge.
+<div align="center">
+  <h3>
+    <a href="{https://your-demo-link.your-domain}">
+      Demo
+    </a>
+    <span> | </span>
+    <a href="{https://your-url-to-the-solution}">
+      Solution
+    </a>
+    <span> | </span>
+    <a href="https://devchallenges.io/challenge/simple-faq-challenge">
+      Challenge
+    </a>
+  </h3>
+</div>
 
-[devChallenges.io](https://devchallenges.io/) challenges are designed to help you enhance your coding skills by building realistic projects.
+<!-- TABLE OF CONTENTS -->
 
-**Suggested Skills to practice: HTML and CSS**
+## Table of Contents
 
-## The challenge
+- [Overview](#overview)
+  - [What I learned](#what-i-learned)
+  - [Useful resources](#useful-resources)
+- [Built with](#built-with)
+- [Features](#features)
+- [Contact](#contact)
+- [Acknowledgements](#acknowledgements)
 
-Your task is to create a web page that closely resembles the provided design.
+<!-- OVERVIEW -->
 
-You can use any tools or resources you like to complete this challenge. Each challenge is designed to practice different skills, so be sure to check the challenge description for more information.
+## Overview
 
-If you need help or have any questions, feel free to [join our community](https://github.com/orgs/devchallenges-io/discussions) and ask for support.
+![screenshot](https://i.postimg.cc/YqgWdqTq/Screenshot-14-6-2025-103349-localhost.jpg)
 
-## Where to find everything
+### What I learned
 
-Your goal is to build the project using the provided design. You can find the designs in the challenge editor once you start the challenge or in the `/design` folder. Please note that the `/design` folder may not include all the designs you need, so be sure to check the editor for more details.
+While working on this project, I deepened my understanding of building accessible and responsive user interfaces using modern web technologies. I learned how to structure semantic HTML for better accessibility. Additionally, I gained experience in applying utility-first CSS with Tailwind to speed up styling and maintain consistency. This project also helped me improve my problem-solving skills by breaking down UI requirements into manageable components and ensuring a smooth user experience across different devices.
 
-The designs are in JPG format, so you'll need to use your best judgment for styles such as `font-size`, `padding`, and `margin`. Additionally, spacing guides are available for each challenge, but access to them requires a [Pro membership](https://devchallenges.io/pro). With a Pro membership, you can also download the Figma design files.
+### Useful resources
 
-All the required assets can be found in the `/resources` folder. You may need to optimize the assets as necessary.
+- [Tailwind CSS Documentation](https://tailwindcss.com/docs) - Essential for learning utility-first CSS and best practices.
 
-For more information about the challenge, access the challenge editor on [devChallenges.io](https://devchallenges.io/challenges-dashboard).
+### Built with
 
-## Steps to Complete the Challenge on devChallenges.io
+This project was built using the following technologies and tools:
 
-- [ ] Start by visiting [devChallenges.io](https://devchallenges.io/), navigate to the challenge page, and begin the challenge.
-- [ ] Once you have started the challenge, you will have access to the editor where you can download the necessary resources, check colors, fonts, and more.
-- [ ] Download the starter/resources, and if you are a Pro user, you can also download the Figma file.
-- [ ] Initialize the project as a Git repository.
-- [ ] Review the design and analyze the different versions for desktop, tablet, and mobile.
-- [ ] Plan your approach to the project by identifying reusable CSS classes and structuring your HTML content.
-- [ ] Define the base styles for your project, including font-family, font-size, and other general content styles.
-- [ ] Begin adding styles from the top of the page and work your way down, ensuring that each section is visually appealing and matches the provided design.
-- [ ] Optimize and resize the required assets from the `/resources` folder as necessary.
-- [ ] Test your project's responsiveness by previewing it on different devices and screen sizes.
-- [ ] Once you are satisfied with your implementation, deploy your project to a hosting platform such as GitHub Pages, Vercel, or Netlify.
-- [ ] Submit your solution on devchallenges.io and aim to pass the design comparison and performance tests.
-- [ ] Replace the default `README.md` file with a custom one that explains your project and reflects on your learning experience. You can use the provided `README-template.md` as a starting point.
-- [ ] Share your solution with the devChallenges.io community by tweeting [@devchallengesio](https://twitter.com/devchallengesio) and mentioning the repository and live URLs in your tweet. You can also share your solution on other social channels or write a blog post about your experience.
-- [ ] Seek feedback from the community by using the provided templates or asking specific questions about your implementation.
+- [Tailwind CSS](https://tailwindcss.com/) for utility-first styling
+- Semantic HTML5 for accessible markup
+- [Vite](https://vitejs.dev/) for fast development and build tooling
 
-Good luck and enjoy building your project! 🚀
+This application/site was created as a submission to a [DevChallenges](https://devchallenges.io/challenges-dashboard) challenge.
 
-## Deploying your project
+## Acknowledgements
 
-Our recommended hosting options include:
+- [DevChallenges.io](https://devchallenges.io/) for providing the challenge and inspiration.
+- [Vite Documentation](https://vitejs.dev/guide/) for guidance on project setup and optimization.
+- [GitHub Copilot](https://github.com/features/copilot) for AI-powered code suggestions and productivity boosts.
+- [ChatGPT](https://chat.openai.com/) for quick answers and explanations during development.
 
-- [GitHub Pages](https://pages.github.com/)
-- [Vercel](https://vercel.com/)
-- [Netlify](https://www.netlify.com/)
+## Author
 
-You can choose any of these solutions or explore other trusted providers. For more information, please refer to our guide on [free hosting platforms](https://devchallenges.io/learn/1-fundamentals/free-hosting-for-web-projects).
-
-## Create your own `README.md`
-
-To use the Readme template, follow these steps:
-
-1. Open the `README-template.md` file in your text editor.
-2. Replace the placeholder content with your own project information.
-3. Customize the sections and headings to fit your project's needs.
-4. Add a detailed description of your project, including its purpose and features.
-5. Reflect on your learning experience and any challenges you encountered during development.
-6. Delete the original `README.md` file.
-7. Rename the `README-template.md` file to `README.md`.
-8. Save the changes and commit the updated `README.md` file to your repository.
-
-By following these instructions, you can create a customized `README.md` file that effectively communicates your project to others.
-
-## More guides
-
-Don't forget to check out the [devChallenges Curriculum](https://devchallenges.io/learn), which covers basic to advanced topics that are essential for your web development journey.
-
-## Sharing your solution
-
-There are several platforms where you can share your solution:
-
-1.  Tweet [@devchallengesio](https://x.com/devchallengesio) and mention **@devchallengesio**, including the repository and live URLs in your tweet. We would love to see what you have built and help spread the word.
-2.  Share your solution on other social channels such as LinkedIn and tag [devchallenges](https://www.linkedin.com/company/devchallenges).
-3.  Write a blog post about your experience building the project. Documenting your workflow, technical choices, and explaining your code is an excellent way to reinforce your learning. Popular platforms for writing include [dev.to](https://dev.to/), [Hashnode](https://hashnode.com/), and [CodeNewbie](https://community.codenewbie.org/).
-
-We provide templates to help you share your solution once you have submitted it on the platform. Feel free to edit them and include specific questions when seeking feedback.
-
-The more specific your questions are, the more likely it is that another community member will provide feedback.
-
-## Feedback
-
-We value feedback and are always looking to improve our challenges and platform. If you have any suggestions or comments, please email us at hi\[at]devchallenges\[dot]io.
-
-This challenge is completely free. Please share it with anyone who would find it useful for practice.
-
-**Enjoy building!** 🚀
+- Website [your-website.com](https://{your-web-site-link})
+- GitHub [@your-username](https://{github.com/your-usermame})
